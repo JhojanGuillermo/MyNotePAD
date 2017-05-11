@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNotePAD</string>
+    <string name="register_fullname">Titulo</string>
+    <string name="register_email">Fecha</string>
+    <string name="register_password">Descripcion</string>
+    <string name="register_save">SAVE</string>
+</resources>
